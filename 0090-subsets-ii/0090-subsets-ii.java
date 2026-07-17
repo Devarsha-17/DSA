@@ -6,7 +6,7 @@ class Solution {
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
 
-        Arrays.sort(nums);              // Sort first
+        Arrays.sort(nums);              
         backtrack(nums, 0, new ArrayList<>());
         return result;
     }
@@ -17,7 +17,7 @@ class Solution {
 
         for (int i = start; i < nums.length; i++) {
 
-            // Skip duplicates
+            
             if (i > start && nums[i] == nums[i - 1]) {
                 continue;
             }
