@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Devarsha-17/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0887-super-egg-drop](https://github.com/Devarsha-17/DSA/tree/master/0887-super-egg-drop) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Devarsha-17/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Devarsha-17/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Devarsha-17/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Devarsha-17/DSA/tree/master/0090-subsets-ii) |
