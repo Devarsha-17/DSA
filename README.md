@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Devarsha-17/DSA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Devarsha-17/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Devarsha-17/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -44,5 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Devarsha-17/DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Devarsha-17/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Devarsha-17/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
