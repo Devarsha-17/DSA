@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Devarsha-17/DSA/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Devarsha-17/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Devarsha-17/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Devarsha-17/DSA/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Devarsha-17/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
