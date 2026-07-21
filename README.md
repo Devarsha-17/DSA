@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Devarsha-17/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Devarsha-17/DSA/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/Devarsha-17/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Devarsha-17/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Devarsha-17/DSA/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Devarsha-17/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
