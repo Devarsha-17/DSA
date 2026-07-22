@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Devarsha-17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0887-super-egg-drop](https://github.com/Devarsha-17/DSA/tree/master/0887-super-egg-drop) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Devarsha-17/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Devarsha-17/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Devarsha-17/DSA/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Devarsha-17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devarsha-17/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Devarsha-17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
