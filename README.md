@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Devarsha-17/DSA/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devarsha-17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/Devarsha-17/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Devarsha-17/DSA/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,8 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devarsha-17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/Devarsha-17/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Devarsha-17/DSA/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Devarsha-17/DSA/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Devarsha-17/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
