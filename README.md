@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Devarsha-17/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Devarsha-17/DSA/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devarsha-17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/Devarsha-17/DSA/tree/master/0735-asteroid-collision) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devarsha-17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/Devarsha-17/DSA/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Devarsha-17/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
